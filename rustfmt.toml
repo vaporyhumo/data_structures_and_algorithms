@@ -1,0 +1,5 @@
+group_imports = "One"
+imports_granularity = "One"
+tab_spaces = 2
+use_field_init_shorthand = true
+
